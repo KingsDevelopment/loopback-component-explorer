@@ -1,3 +1,23 @@
+2017-03-24, Version 4.2.0
+=========================
+
+ * Change Explorer header to use LoopBack (emckean)
+
+
+2017-02-17, Version 4.1.1
+=========================
+
+ * Set z-index to 1 on header to fix styling bug (Imam Assidiqqi)
+
+ * replace slc with lb (ivy ho)
+
+
+2017-01-31, Version 4.1.0
+=========================
+
+ * bump loopback-swagger version to 3.0.1 (Jurien Hamaker)
+
+
 2016-12-21, Version 4.0.0
 =========================
 
